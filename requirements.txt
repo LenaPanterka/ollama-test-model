@@ -1,0 +1,2 @@
+ollama
+scikit-learn
